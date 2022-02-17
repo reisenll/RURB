@@ -1,0 +1,496 @@
+header {
+    background-color: #17611C;
+    height: 100px;
+}
+
+header nav .container i {
+    color: #fff;
+    margin-top: 20px;
+
+}
+
+header nav .container h1 {
+    margin-left: 56px; 
+    margin-top: -50px;
+    color: #fff;
+
+}
+
+header nav .container a  {
+    text-decoration: none;
+}
+
+header nav .collapse.navbar-collapse ul.navbar-nav li.nav-item {
+    margin-right: 50px;
+    margin-top: 15px;
+    color: #fff;
+}
+
+header nav .collapse.navbar-collapse ul.navbar-nav li.nav-item a.nav-link {
+    color: #fff;
+}
+
+header nav .collapse.navbar-collapse ul.navbar-nav li.nav-item a.nav-link:hover {
+    color: #6882E8;
+}
+
+button.navbar-toggler {
+    height: 0px;
+    border: none;
+    padding: 0px;
+    margin-top: -90px;
+}
+
+#div-home {
+    background-color: #17611C;
+    height: 400px;
+}
+
+#div-home h1 {
+    color: #fff;
+    font-size: 58px;
+    padding-top: 20px;
+}
+
+#div-home p {
+    font-size: 18px;
+    color: #6882E8;
+}
+
+#div-home img {
+    float: right;
+}
+
+#dificuldades h4 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 38px;
+    color: #17611C;
+}
+
+#dificuldades .container {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+}
+
+#dificuldades p {
+    text-align: center;
+    color: #F89A1E;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+#interacoes {
+    margin-top: 100px;
+}
+
+#interacoes h3 {
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 81px;
+    color: #17611C;
+
+}
+
+#interacoes p {
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 33px;
+    margin-bottom: 60px;
+
+}
+
+#interacoes a {
+    padding: 10px 20px;
+    background: #F89A1E;
+    border-radius: 40px;
+    color: #fff;
+}
+
+#interacoes .fundo {
+    width: 580px;
+    height: 375px;
+    background: #D6851A;
+    border-radius: 40px;
+}
+
+#interacoes img {
+    width: 574px;
+    height: 369px;
+}
+
+#historia-pf h2 {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 81px;
+    text-align: center;
+    color: #17611C;
+}
+
+#historia-pf p {
+    margin: 0 auto;
+    width: 645px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 33px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 40px;
+}
+
+#historia-pf .container{
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+
+}
+
+#historia-pf .col-md-4 {
+    margin-bottom: 30px;
+    
+}
+
+#historia-pf .col-md-4 img {
+    width: 300px;
+    height: 280px;
+
+}
+
+footer {
+    background-color: #17611C;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer .container i {
+    color: #fff;
+    margin-top: 40px;
+
+}
+
+footer .container h1 {
+    margin-left: 56px; 
+    margin-top: -50px;
+    color: #fff;
+
+}
+
+footer .container a  {
+    text-decoration: none;
+}
+
+footer ul li a {
+    color:#0C320F;
+    font-weight: 600;
+}
+
+footer ul li a:hover {
+    color: #fff;
+}
+
+footer p {
+    margin-top: 60px;
+    color: #0C320F;
+}
+
+footer p span {
+    font-weight: 600;
+}
+
+footer small {
+    color: #0C320F;
+    font-weight: 600;  
+    float: right;
+}
+
+/*História*/
+#historia h3 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 64px;
+    color: #17611C;
+}
+
+#historia .col-md-6 {
+    padding: 0px;
+    margin-bottom: 80px;
+}
+
+#historia p {
+    font-size: 18px;
+    line-height: 33px;
+    text-align: left;
+    width: 500px;
+    font-weight: 500;
+}
+
+#historia .img-historia img{
+    width: 574px;
+    height: 369px;
+}
+
+#historia .img-historia {
+    box-shadow: 5px -5px #D6851A;
+    border-radius: 40px;
+}
+
+#historia img {
+    border-radius: 40px; 
+}
+
+#historia .img-historia-right {
+    box-shadow: -5px -5px #D6851A;
+    border-radius: 40px;
+}
+
+#historia p.right {
+    font-size: 18px;
+    line-height: 33px;
+    text-align: right;
+    width: 500px;
+    font-weight: 500;
+    float: right;
+}
+
+#historia .col-md-12 {
+    margin-bottom: 50px;
+
+}
+
+#historia .col-md-12 p#unico {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 33px;
+    width: 1000px;
+    margin-left: 50px;
+}
+
+/*Projeto*/
+#projeto h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 64px;
+    color: #17611C;
+}
+
+#projeto p {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+    
+}
+
+/*Rotas*/
+#rotas {
+    margin-bottom: 50px;
+}
+
+#rotas h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 64px;
+    color: #17611C; 
+}
+
+#rotas h3 {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 80px;
+    color: #F89A1E;
+    
+
+}
+
+#rotas .col-md-6 {
+    padding: 0px;
+}
+
+#rotas .col-md-6.right {
+    float: right;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-top: -456px;
+}
+
+#rotas .col-md-6.right img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#rotas .col-md-6.right img:hover {
+    transform: scale(3.0);
+    transition: 0.5s;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+button i.fas.fa-bars.text-white.fa-2x {
+    margin-left: -200px;
+    margin-top: 30px;
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    #dificuldades .container.align-self-center.cell {
+        margin-left: 65px;
+    }
+    
+    #dificuldades p {
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    #historia-pf .container {
+        padding: 0px;
+    }
+
+    #historia-pf h2 {
+        font-size: 38px;
+        line-height: 56px;
+        width: 400px;
+    }
+    
+    #historia-pf p {
+        width: 400px;
+    }
+    
+    #historia-pf .col-md-4 {
+        margin-bottom: 30px;
+        width: 300px;
+        margin-left: 60px;
+        padding: 0px;
+    }
+    
+    #historia-pf .col-md-4 img {
+        width: 300px;
+        height: 280px;
+    }
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {   
+    #div-home p {
+        width: 500px;
+    }
+
+    #dificuldades h4 {
+        margin-left: -30px;
+    }
+
+    #dificuldades .container.align-self-center.cell {
+        margin-left: 150px;
+    }
+    
+    #dificuldades p {
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    #interacoes .container {
+        width: 500px;
+        margin: 0px;
+    }
+
+    #historia-pf h2 {
+        font-size: 38px;
+        line-height: 56px;
+        width: 400px;
+        margin-left: 5px;
+    }
+    
+    #historia-pf p {
+        width: 400px;
+        margin-left: 10px;
+
+    }
+    
+    #historia-pf .col-md-4 {
+        margin-bottom: 30px;
+        width: 300px;
+        margin-left: 70px;
+        padding: 0px;
+    }
+    
+    #historia-pf .col-md-4 img {
+        width: 300px;
+        height: 280px;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #div-home h1 {
+        font-size: 50px;
+    }
+
+    #div-home p {
+        font-size: 16px;
+    }
+
+    #dificuldades h4 {
+        margin-left: -30px;
+    }
+
+    #dificuldades .container.align-self-center.cell {
+        margin-left: 5px;
+    }
+    
+    #dificuldades p {
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    #interacoes .container {
+        width: 500px;
+    }
+
+    #interacoes h3 {
+        width: 600px;
+    }
+    
+    #interacoes p {
+        width: 500px;
+    }
+
+    #interacoes .col-md-6.hidden {
+        display: none;
+    }
+
+    #historia-pf .container {
+        padding: 0px;
+    }
+
+    #historia-pf h2 {
+        line-height: 56px;
+    }
+    
+    #historia-pf .col-md-4 {
+        margin-bottom: 20px;
+        margin-left: 60px;
+        padding: 0px;
+    }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    #interacoes .fundo {
+        width: 485px;
+        height: 355px;
+    }
+
+    #interacoes img {
+        width: 480px;
+        height: 350px;
+    }
+ }
